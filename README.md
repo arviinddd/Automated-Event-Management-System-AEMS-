@@ -6,8 +6,8 @@ This project is a web app for organizing events. Built with PHP, MySQL, HTML, an
 <p>
 To fully run this program, we will need to run it in a local host.
 <ul>
-<li>Ran using Apache web server(XAMPP).</li>
+<li>Developed using Apache web server(XAMPP).</li>
 <li>Imported  'project.sql' in PHPMyAdmin</li>
-<li>Then ran in the browser using a local host e.g. 'localhost/path/index.php'
+<li>Deployed in the browser using a local host e.g. 'localhost/path/index.php'
 </ul>
 
